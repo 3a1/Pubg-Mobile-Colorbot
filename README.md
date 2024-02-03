@@ -1,6 +1,10 @@
 
 # About:
-Pubg Mobile Color based aimbot. Works on any android emulator. Fully undetected as it doesnt change any memory or game files. It works only on image recognation. Made specially for tdm mode.
+Pubg Mobile Color based aimbot. 
+Works on any android emulator.
+Fully undetected as it doesnt change any memory or game files.
+It works only on image recognation. 
+Made specially for tdm mode.
 
 # How It Works:
 - It makes screenshots as your refresh rate every second
