@@ -7,7 +7,6 @@ Pubg Mobile Color based aimbot. Works on any android emulator. Fully undetected 
 - Checks if on the screen is any red pixels(player outline) via hsv pattern
 - If any, calculate the highest pixel(head) of them and move mouse to the pixel.
 
-# Showcase (Tampered settings):
+# Showcase:
 
-
-https://github.com/kaanosu/ValorantArduinoColorbot/assets/103574624/b9afc0d7-da94-4318-8a52-9da90633c7a7
+https://github.com/3a1/Pubg-Mobile-Colorbot/assets/75133897/05a59164-3d56-4ab0-b8f3-22e22b9e34b3
